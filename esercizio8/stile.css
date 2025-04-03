@@ -1,3 +1,12 @@
 .p {
     color: red;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+.rettangolo {
+    border: 3px solid green;
+    padding: 5px;
+    display: inline-block;   
 }
