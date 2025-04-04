@@ -1,0 +1,44 @@
+.p {
+    color: red;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.p strong{
+    color: brown; 
+    font-weight: bold; 
+    margin-right: 5px;
+}
+
+.titolo {
+    color: blue;  
+    font-size: 20px;  
+    font-weight: bold;
+    margin-bottom: 10px; 
+}
+
+.rettangolo {
+    border: 3px solid green;
+    padding: 5px;
+    display: inline-block;   
+}
+
+.rettangolone {
+    border: 3px solid blue;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+}
+
+.checkbox {
+    margin-right: 10px;
+    transform: scale(1.2);
+}
+
+.acquista {
+    font-weight: bold;
+    color: black;
+    margin-left: 10px; 
+}
