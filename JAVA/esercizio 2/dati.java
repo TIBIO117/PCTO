@@ -11,6 +11,6 @@ public class dati {
 
         System.out.println("Buongiorno sig.ra/sig. " + string1+ " " + string2);
 
-        scanner.close();
+        scanner.close()
     }
 }
